@@ -6,7 +6,7 @@ Je suis développeur web et hacker à mes heures perdues. Tous les projets de co
 
 ---
 
-### 🧰 Languages and tools
+### 🧰 Technologies et outils
 
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
