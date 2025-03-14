@@ -4,13 +4,6 @@
 
 Je suis développeur web et hacker à mes heures perdues. Tous les projets de code sur mon profil sont construits à partir de la base, de la planification, de la conception jusqu'à la résolution de problèmes réels avec du code.
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/aurelien-achard-it/">
-    <img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
-  <a href="https://app.hackthebox.com/users/2035830">
-    <img width="32px" alt="HackTheBox" title="HackTheBox" src="https://i.imgur.com/AixJgnm.png"/></a>
-</p>
-
 ---
 
 ### 🧰 Languages and tools
